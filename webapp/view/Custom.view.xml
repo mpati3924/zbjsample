@@ -1,0 +1,7 @@
+<mvc:View controllerName="zbjsalesdatatest.controller.Custom"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+    <Text text="Deployment testing for FIORI APP"></Text>
+    </Page>
+</mvc:View>
