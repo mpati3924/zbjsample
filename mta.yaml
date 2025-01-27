@@ -81,7 +81,7 @@ resources:
   parameters:
     path: ./xs-security.json
     service: xsuaa
-    service-name: zbjsalesdatatest-xsuaa-service
+    service-name: zbjsalesdatatest-xsuaa-services
     service-plan: application
 - name: zbjsalesdatatest-repo-host
   type: org.cloudfoundry.managed-service
